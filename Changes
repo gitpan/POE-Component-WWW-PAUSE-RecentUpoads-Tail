@@ -1,0 +1,14 @@
+Revision history for POE-Component-WWW-PAUSE-RecentUpoads-Tail
+
+0.04  Sun Feb  17 16:07:00 2008
+    - fixed distro packaging.
+
+0.03  Sun Feb  3 11:47:00 2008
+    - fixed discrepancy in the documentation. Working code is the same
+
+0.02  Sun Feb  3 00:41:00 2008
+    - fixed defaults for 'store' argument in the contructor
+
+0.01  Thu Jan 31 21:34:36 2008
+        First version, released on an unsuspecting world.
+
